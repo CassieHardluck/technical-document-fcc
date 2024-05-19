@@ -2,14 +2,14 @@ html,
 body {
   font-size: 16px;
   min-width: 300px;
-  color: #1a4242;
+  color: #5f9ea0;
   line-height: 1.5;
-  background-color: #ffffff;
+  background-color: #f5ecec;
   font-family: 'Open Sans', Arial, sans-serif;
 }
 
 #nav-head {
-  font-size: 40px;
+  font-size: 32px;
 }
 
 #navbar {
@@ -20,21 +20,22 @@ body {
   width: 300px;
   height: 100%;
   border-right: solid;
-  border-color: rgba(10, 88, 88, 0.4);
+  border-color: #0a585866;
 }
 
 header {
-  color: rgb(75, 15, 83);
+  color: #4b0f53;
   margin: 10px;
   text-align: center;
   font-size: 28px;
   font-weight: bold;
-  font-family: 'Gentium Plus';
+  font-family: 'Times New Roman', Times, serif;
 }
 
 #main-doc header {
   text-align: left;
   margin: 0px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 #navbar ul {
@@ -45,7 +46,7 @@ header {
 }
 
 #navbar li {
-  color: #4d4e53;
+  color: #5f9ea0;
   border-top: 1px solid;
   list-style: none;
   position: relative;
@@ -56,7 +57,7 @@ header {
   font-size: 1.2em;
   display: block;
   padding: 10px 30px;
-  color: #4d4e53;
+  color: #5f9ea0;
   text-decoration: none;
   cursor: pointer;
   font-family: Buda;
@@ -69,15 +70,13 @@ header {
   margin-bottom: 110px;
 }
 
-section article {
-  color: #4d4e53;
-  margin: 15px;
-  font-size: 0.96em;
-}
-
 section li {
   margin: 15px 0px 0px 20px;
   list-style-type: none;
+}
+
+em {
+  font-size: 20px;
 }
 
 
@@ -91,7 +90,7 @@ section li {
   }
 
   #navbar {
-    background-color: white;
+    background-color: #f5ecec;
     position: absolute;
     top: 0;
     padding: 0;

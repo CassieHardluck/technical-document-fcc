@@ -1,5 +1,5 @@
 # technical-document-fcc
->Create a Technical Document Webpage that is responsive for freeCodeCamp project 4
+> Create a Technical Document Webpage that is responsive for freeCodeCamp project 4
 
 ## Build a Technical Documentation Page
   > Objective: Build an app that is functionally similar to https://technical-documentation-page.freecodecamp.rocks. Do not copy this demo project.
@@ -23,12 +23,38 @@
 15. Your technical documentation should use at least one media query
 16. Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
-Note: Be sure to add 
-***<link rel="stylesheet" href="styles.css">***  in your HTML to link your stylesheet and apply your CSS
+#### Note: Be sure to add 
+
+~~~
+
+    <link rel="stylesheet" href="styles.css">
+
+~~~
+
+ in your HTML to link your stylesheet and apply your CSS
+
+_____________________________
 
 Some notes on what I'm writing this doc about
 
-KEY POINTS
-Down syndrome is a genetic condition where a person is born with an extra chromosome.
-This can affect how their brain and body develop.
-People diagnosed with Down syndrome can lead healthy lives with supportive care.
+
+
+__*color palette*__
+
+  color: #5f9ea0;
+  background-color: #362029;
+  border-color: #0a585866;
+  color: #4b0f53;
+  background-color: #f5ecec;
+
+
+
+
+
+
+
+
+
+
+
+
